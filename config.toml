@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://andrewhearin.github.io/stoned-gpt/'
 languageCode = 'en-us'
 title = 'stoned gpt'
 theme = 'nostyleplease'
