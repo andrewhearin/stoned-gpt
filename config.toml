@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'stoned gpt'
+theme = 'nostyleplease'
+publishDir = "docs"
